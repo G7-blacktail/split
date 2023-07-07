@@ -1,0 +1,1 @@
+        String arquivoTexto = "C:\\Users\\gustavo.fernandes\\Desktop\\AuditoriaLidersis Descktop Path.txt";
